@@ -73,7 +73,7 @@ section h2 {
   justify-content: center;
 }
 
-.redes-sociais li {
+.Redes-sociais li {
   margin-right: 10px;
 }
 
@@ -87,7 +87,7 @@ section h2 {
   transition: transform 0.3s ease; 
 }
 
-.redes-sociais img:hover {
+.Redes-sociais img:hover {
   transform: scale(1.2); 
 }
 
